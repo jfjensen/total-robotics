@@ -1,7 +1,4 @@
----
-layout: default
-overview: true
----
+# Table of Contents
 
 * TOC
 {:toc}
