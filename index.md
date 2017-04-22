@@ -27,6 +27,8 @@ Lecture 2: [video](https://youtu.be/4oCo1j8xGew)
 
 Lecture 3: [video](https://youtu.be/sEKNoWyKUA0)
 
+Lecture 4: [video](https://youtu.be/7t54saw9I8k)
+
 # Artificial Intelligence for Robotics by Sebastian Thrun (Udacity)
 
 A course created by Sebastian Thrun on the on-line educational platform Udacity. It covers the basic techniques for self-driving robots/cars. The course material is presented in a series of videos accessible via the Udacity platform. This course is very motivational. The exercises sometimes vary highly in difficulty though. The solution code for the exercises is always given. There's also an on-line forum where students can ask questions. This is a good place to start.
