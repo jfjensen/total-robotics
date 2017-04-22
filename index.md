@@ -7,20 +7,20 @@ overview: true
 {:toc}
 
 
-## Introduction to Kalman Filters by Michel van Biezen
+# Introduction to Kalman Filters by Michel van Biezen
 
 [playlist with 55 videos](https://www.youtube.com/playlist?list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT)
 
-## Introduction to GPS by Michel van Biezen
+# Introduction to GPS by Michel van Biezen
 
 [playlist with 18 videos](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXGdn_8m2HCIJS7CfKMCwol)
 
-## Control System Lectures by Brian Douglas
+# Control System Lectures by Brian Douglas
 
 PID Control:
 [playlist with 2 videos](https://www.youtube.com/playlist?list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb)
 
-## Forward and Inverse Kinematics by Coding Math
+# Forward and Inverse Kinematics by Coding Math
 
 Demo with implementation in Javascript.
 
@@ -30,7 +30,7 @@ Lecture 2: [video](https://youtu.be/4oCo1j8xGew)
 
 Lecture 3: [video](https://youtu.be/sEKNoWyKUA0)
 
-## Artificial Intelligence for Robotics by Sebastian Thrun (Udacity)
+# Artificial Intelligence for Robotics by Sebastian Thrun (Udacity)
 
 A course created by Sebastian Thrun on the on-line educational platform Udacity. It covers the basic techniques for self-driving robots/cars. The course material is presented in a series of videos accessible via the Udacity platform. This course is very motivational. The exercises sometimes vary highly in difficulty though. The solution code for the exercises is always given. There's also an on-line forum where students can ask questions. This is a good place to start.
 
@@ -74,7 +74,7 @@ A course created by Sebastian Thrun on the on-line educational platform Udacity.
 
 
 
-## SLAM tutorial by Prof. Claus Brenner
+# SLAM tutorial by Prof. Claus Brenner
 
 A tutorial on Youtube on Simultaneous Location And Mapping by Prof. Claus Brenner. Starter code in Python can be downloaded using a link below the videos. No solution code is given. Only the expected results of running the solution code are given. This is a very nice tutorial to follow after "Artificial Intelligence for Robotics" by Sebastian Thrun.
 
@@ -178,7 +178,7 @@ A tutorial on Youtube on Simultaneous Location And Mapping by Prof. Claus Brenne
   [Video 10: A* with kinematic state space - optimized](https://www.youtube.com/watch?v=rnf4t00uSmk)  
   [Video 11: End](https://www.youtube.com/watch?v=JFtZnMu6PDQ)  
 
-## Visual Navigation for Flying Robots by Dr. Jürgen Sturm
+# Visual Navigation for Flying Robots by Dr. Jürgen Sturm
 
 Complete playlist:
 
@@ -204,7 +204,7 @@ Individual lectures:
 
 
 
-## Robotics - ColumbiaX - CSMM.103x - edX
+# Robotics - ColumbiaX - CSMM.103x - edX
 
 #### Overview
 Programming in ROS (Robot Operating System) with Python. Focus on Robot arms.
